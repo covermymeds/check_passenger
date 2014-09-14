@@ -2,6 +2,7 @@
 
 - README page.
 - Add summary to command help.
+- Report check_passenger version
 
 
 # Fix
