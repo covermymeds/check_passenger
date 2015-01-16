@@ -6,7 +6,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'check_passenger/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'check_passenger'
+  spec.name          = 'cmm_check_passenger'
   spec.version       = CheckPassenger::VERSION
   spec.authors       = ['Alvaro Redondo']
   spec.email         = ['alvaro@redondo.name']

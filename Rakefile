@@ -1,5 +1,6 @@
 require 'bundler/gem_tasks'
 require 'rake/testtask'
+require 'deploy_my_gem/task'
 
 Rake::TestTask.new do |t|
   t.libs << 'test'
